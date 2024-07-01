@@ -1,0 +1,11 @@
+* {
+    background-color: #000000;
+    /* or any other dark color you prefer */
+}
+
+ .banner-right img{
+    width: 300px;
+    margin-left: 200px;
+    display: flex;
+    align-items: center;
+  }
